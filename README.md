@@ -4,7 +4,7 @@
 
 ### Overview
 
-DepPath-SVM is an SVM-based relation extraction model that utilizes dependency paths and ensemble learning to improve classification performance. It is trained on the WebNLG dataset and extracts relations between entity pairs using linguistic features.
+DepPath-SVM is an SVM-based relation extraction model that utilizes dependency paths and ensemble learning to improve classification performance. It is trained on the WebNLG dataset and extracts relations between entity pairs using dependency paths.
 
 ### Dataset Setup
 
