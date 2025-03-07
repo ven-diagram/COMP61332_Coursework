@@ -1,5 +1,9 @@
 # COMP61332 Coursework
 
+## Use of Generative AI Tools
+
+Generative AI such as ChatGPT and Claude were utilised as a debugging tool whilst programming the RE models. Additionally, it was used as a lookup to identify functions and their use within specific Python modules.
+
 ## DepPath-SVM: Dependency Path-Based SVM for Relation Extraction
 
 ### Overview
